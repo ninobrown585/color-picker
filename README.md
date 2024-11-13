@@ -1,3 +1,3 @@
 # 🎨 Color Picker
 
-Follow the instructions in the workshop to finish the assignment!
+React props exercise that changes an objects color with a simple click.
